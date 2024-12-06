@@ -1,6 +1,7 @@
 Container image for cowsay - make a cow say something
 
 ## Usage
+
 ```shell
 docker run --rm -it ghcr.io/r-xs-fi/cowsay
 ```
