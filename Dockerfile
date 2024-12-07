@@ -1,5 +1,4 @@
 # edge because:
-# - `riscv64` only available in there
 # - cowsay is only available in edge/testing repository
 FROM alpine:edge
 
